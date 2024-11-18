@@ -1,7 +1,7 @@
 import React, { useRef } from 'react';
 import Item from './Item';
 
-const Slider = () => {
+const SliderNoviembre = () => {
     const slideRef = useRef();
 
     const itemsData = [
@@ -61,6 +61,7 @@ const Slider = () => {
 
     return (
         <>
+        <h1 className='title-spt'>Juegos Noviembre</h1>
         <div className="container">
             
             <div className="slide" ref={slideRef}>
@@ -89,4 +90,4 @@ const Slider = () => {
     );
 };
 
-export default Slider;
+export default SliderNoviembre;
