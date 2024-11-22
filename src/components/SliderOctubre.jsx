@@ -52,8 +52,8 @@ const SliderOctubre = () => {
         const slide = slideRef.current;
         const items = slide.children;
         slide.appendChild(items[0]);
-        if (activeId === itemsData.length) {
-            setActiveId(1);
+        if (activeId - 75 === itemsData.length) {
+            setActiveId(76);
         } else {
             setActiveId(activeId + 1);
         }
@@ -63,8 +63,8 @@ const SliderOctubre = () => {
         const slide = slideRef.current;
         const items = slide.children;
         slide.prepend(items[items.length - 1]);
-        if (activeId === 1) {
-            setActiveId(itemsData.length);
+        if (activeId === 76) {
+            setActiveId(itemsData.length + 75);
         } else {
             setActiveId(activeId - 1);
         }
@@ -93,7 +93,7 @@ const SliderOctubre = () => {
                     <button className="prev" onClick={handlePrev}>
                         <i className="fa-solid fa-arrow-left"></i>
                     </button>
-                    {activeId} of {itemsData.length}
+                    {activeId - 75} of {itemsData.length}
                     <button className="next" onClick={handleNext}>
                         <i className="fa-solid fa-arrow-right"></i>
                     </button>
