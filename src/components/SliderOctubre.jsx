@@ -327,7 +327,7 @@ const SliderOctubre = () => {
     "id": 125,
     "fecha": "30 de octubre",
     "nombrejuego": "Escondite",
-    "descripción": "Dos equipos se enfrentan en una cancha dividida. Un equipo corre siguiendo un circuito delimitado y puede esconderse temporalmente detrás de colchonetas para evitar ser quemado por pelotas de espuma lanzadas por el otro equipo, que se encuentra en un círculo central. Los quemados cambian de equipo. Gana el equipo con más participantes corriendo al final.",
+    "description": "Dos equipos se enfrentan en una cancha dividida. Un equipo corre siguiendo un circuito delimitado y puede esconderse temporalmente detrás de colchonetas para evitar ser quemado por pelotas de espuma lanzadas por el otro equipo, que se encuentra en un círculo central. Los quemados cambian de equipo. Gana el equipo con más participantes corriendo al final.",
     "objetivos": "Reforzar la velocidad, trabajar la agilidad de los participantes, generar una estrategia de trabajo en equipo.",
     "backgroundImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQab-XHB-AwhUKCsIgfJ-EZbfpymjwrsfANWw&s"
   },
@@ -335,7 +335,7 @@ const SliderOctubre = () => {
     "id": 126,
     "fecha": "30 de octubre",
     "nombrejuego": "Que no la atrape",
-    "descripción": "Los jugadores forman un círculo con 2 o 3 personas dentro. Se lanza un balón de mano entre los jugadores del círculo, evitando que las personas del centro lo atrapen. Si lo logran, cambian lugar con quien lanzó el balón. Se puede añadir más balones para aumentar la dificultad.",
+    "description": "Los jugadores forman un círculo con 2 o 3 personas dentro. Se lanza un balón de mano entre los jugadores del círculo, evitando que las personas del centro lo atrapen. Si lo logran, cambian lugar con quien lanzó el balón. Se puede añadir más balones para aumentar la dificultad.",
     "objetivos": "Lanzar y atrapar pelotas, mantener la atención a varios sucesos a la vez, crear estrategias de juego.",
     "backgroundImage": "https://www.aprenderjuntos.cl/wp-content/uploads/2017/03/juegos-de-pelota-portada-1.jpg"
   },
@@ -343,7 +343,7 @@ const SliderOctubre = () => {
     "id": 127,
     "fecha": "30 de octubre",
     "nombrejuego": "Reclutamiento",
-    "descripción": "Dos equipos compiten para 'reclutar' jugadores del equipo contrario golpeándolos con una pelota de espuma. Los jugadores alcanzados deben cambiar de postura: primero jugar en un pie, luego agachados, y finalmente pasar al equipo contrario si son golpeados tres veces. El equipo con más jugadores al final gana.",
+    "description": "Dos equipos compiten para 'reclutar' jugadores del equipo contrario golpeándolos con una pelota de espuma. Los jugadores alcanzados deben cambiar de postura: primero jugar en un pie, luego agachados, y finalmente pasar al equipo contrario si son golpeados tres veces. El equipo con más jugadores al final gana.",
     "objetivos": "Trabajar en equipo, desarrollar motricidad y concentración, mejorar rapidez de reacción.",
     "backgroundImage": "https://coachinginnovacion.com/wp-content/uploads/2024/05/46-contratacion-interna-y-extrena.png"
   }
