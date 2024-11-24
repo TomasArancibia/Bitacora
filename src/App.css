@@ -42,7 +42,7 @@
   /* Ajusta el tamaño de las tarjetas */
   width: 100%;
   height: auto;
-  aspect-ratio: 3 / 2; /* Mantiene una relación de aspecto */
+
 }
 
 .card-content {

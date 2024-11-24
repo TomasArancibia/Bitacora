@@ -72,7 +72,7 @@ const SliderAgosto = () => {
             nombrejuego: "Cachipun gigante", 
             description: "En esta versión del juego piedra, papel o tijera se juega con un grupo grande de personas dividiéndolo en 2 equipos. Los equipos deben coordinarse para definir qué movimiento realizarán y, al momento de realizar el cachipún, todos deben hacer el mismo gesto. Además de las reglas normales del cachipún, también pueden perder si alguien del equipo hace un movimiento distinto al definido.", 
             objetivos: "estrategia, azar, trabajo en equipo, comunicación", 
-            backgroundImage: "<la url>" 
+            backgroundImage: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYaYs4tUnYtS9YlR4mkcVg4qfuV10uBQC_KA&s" 
           },
           { 
             id: 9, 
@@ -112,7 +112,7 @@ const SliderAgosto = () => {
             nombrejuego: "Piti pi", 
             description: "En este juego, el coordinador menciona 'repitan' para luego seguir diciendo 'piti' mientras apunta con el dedo de la mano desde el meñique al pulgar. Al llegar entre el índice y pulgar, se marca la curva entre los dedos diciendo 'pi', para luego llegar al pulgar y volver a decir 'pi'. Luego, se repite el proceso de vuelta para terminar en una pose y ver si otra persona entendió el juego, replicando exactamente lo que hizo, incluyendo la pose final.", 
             objetivos: "percepción", 
-            backgroundImage: "<la url>" 
+            backgroundImage: "https://st2.depositphotos.com/1798678/8536/v/450/depositphotos_85368016-stock-illustration-image-of-cartoon-human-hand.jpg" 
           },
           { 
             id: 14, 
@@ -136,7 +136,7 @@ const SliderAgosto = () => {
             nombrejuego: "Juan José Bonilla", 
             description: "En 'Juan José Bonilla', el coordinador enseña una canción a los participantes, que se repetirá dos veces. La canción es: 'Juan José Bonilla, se sentó en una hornilla y comenzó a gritar ¡Ay, mamá, ay, mamá, que caliente está!'. Cada vez que se mencione: '¡Ay, mamá, ay, mamá!', los participantes deben levantarse y sentarse rápidamente de sus sillas. Una vez aprendida la canción, se dividirá al grupo en dos equipos. El coordinador indica qué grupo comienza a cantar primero y luego señala cuándo empezar al otro grupo. Ambos grupos deben cantar la canción dos veces seguidas, ya que se canta la cantidad de grupos que hay. Los equipos deben cantar siguiendo el ritmo y sin confundirse con el canto del otro grupo. Luego, cada grupo se vuelve a dividir en dos, formando 4 grupos, y se repite la misma dinámica. Finalmente, se forman 6 grupos y se repite el mismo procedimiento. El objetivo es que todos los grupos canten la canción de manera coordinada, las veces que se les solicita y sin equivocarse para ganar el juego.", 
             objetivos: "repetición, motricidad, canon", 
-            backgroundImage: "<la url>" 
+            backgroundImage: "https://www.vozviva.es/wp-content/uploads/2019/08/aprender-a-cantar.jpg  " 
           },
           { 
             id: 17, 
@@ -152,7 +152,7 @@ const SliderAgosto = () => {
             nombrejuego: "Cachipún suma", 
             description: "El juego consiste en formar parejas al azar, en donde cada jugador esconde su mano detrás de su espalda y forma un número del 0 al 5. Al decir 'ca-chi-pún', ambos jugadores deben revelar sus manos y mostrar el número que formaron, mientras que al mismo tiempo dicen un número del 0 al 10, que será su predicción de la suma total de los dedos. El jugador que adivine correctamente la suma gana un punto. Después de cada ronda, el coordinador del juego indica que los jugadores deben cambiar de pareja y repetir el mismo proceso. Finalmente, los ganadores del juego serán los que recuerden el nombre de las tres personas con las que jugaron y se las digan al coordinador.", 
             objetivos: "interacción y azar", 
-            backgroundImage: "<la url>" 
+            backgroundImage: "https://www.publimetro.cl/resizer/v2/PZ3GM2UR5FG2FODCWFWDQYNKNI.jpg?smart=true&auth=312278b4e0c640e616bff94dee43f4126b97793821277a9346cc8b656201b7c3&width=1440&height=809  " 
           },
           { 
             id: 19, 
@@ -169,7 +169,7 @@ const SliderAgosto = () => {
             nombrejuego: "Nunca de a 3", 
             description: "En este juego, muchas duplas estáticas se posicionan en el área de juego, mientras una pareja actúa como perseguidor y perseguido. El perseguido tratará de alcanzar una dupla estática y colocarse junto a uno de sus miembros. Si lo logra, el miembro del lado contrario al que se colocó se convierte en el nuevo perseguidor y el anterior pasa a ser el perseguido. Si el perseguidor alcanza al perseguido antes de esto, intercambian roles.", 
             objetivos: "estrategia y atención", 
-            backgroundImage: "<la url>" 
+            backgroundImage: "https://i.ytimg.com/vi/Aqj0VWoK_XU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA_ADcihXnR3W1_MKROdl7XX3LOKw" 
           },
           { 
             id: 21, 
@@ -193,7 +193,7 @@ const SliderAgosto = () => {
             nombrejuego: "Amitsi chami chami", 
             description: "Todos los participantes forman una ronda y deben cantar lo siguiente: 'Amitzi chami, e le petit ti vo ti vo, Amitzi chami, e le petit ti vo ti vo ¿E le petit ti vo?' (dirigente) 'Ti vo ti vo ti vo' (participantes) '¿E le petit ti vo?' (dirigente) 'Ti vo ti vo ti vo' (participantes)'. Durante la canción, los participantes se mueven y cambian de dirección según avanza la letra. Al decir 'Ti vo ti vo ti vo', todos deben saltar. El juego se repite con variaciones: primero tomándose de los hombros, luego de las orejas, después de las rodillas y, finalmente, de los tobillos.", 
             objetivos: "Coordinación, repetición, memoria, generar confianza entre los participantes", 
-            backgroundImage: "<la url>" 
+            backgroundImage: "https://img.freepik.com/vector-premium/gente-ronda-baile-adultos-amigos-circulo-bailando-siluetas-vectoriales_661484-827.jpg" 
           },
           { 
             id: 24, 
@@ -201,7 +201,7 @@ const SliderAgosto = () => {
             nombrejuego: "Método Bapne", 
             description: "Los integrantes del curso deben estar de pie. El animador da a conocer 4 tiempos, cada uno relacionado con un movimiento de pie. En cada tiempo, los participantes realizan el movimiento correspondiente.", 
             objetivos: "Coordinación, neuroestimulación, memoria y atención", 
-            backgroundImage: "<la url>" 
+            backgroundImage: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWPW8PyM6GXuc1H5_uHsugcHBIekA6n6vWbw&s" 
           },
           { 
             id: 25, 
@@ -217,7 +217,7 @@ const SliderAgosto = () => {
             nombrejuego: "Aram sam sam", 
             description: "El curso debe formar un círculo. El líder del grupo se ubica en el centro del círculo y canta la canción 'Aram sam sam'. Los demás participantes deben imitar los movimientos del líder mientras cantan la canción.", 
             objetivos: "repetición, coordinación, concentración", 
-            backgroundImage: "<la url>" 
+            backgroundImage: "https://i.ytimg.com/vi/ZAdn-V1xtJ4/maxresdefault.jpg" 
           },
           { 
             id: 27, 
@@ -258,7 +258,7 @@ const SliderAgosto = () => {
             nombrejuego: "Lazarillo", 
             description: "El Lazarillo es un juego en parejas donde uno actúa como 'ciego', con los ojos vendados, y el otro como 'guía'. El objetivo es que el guía conduzca al ciego de forma segura, fomentando confianza y comunicación.", 
             objetivos: "trabajo en equipo, adquirir confianza en los compañeros", 
-            backgroundImage: "<la url>" 
+            backgroundImage: "https://imagenes.espaciologopedico.com/rev/noticias/6/6652.jpg" 
           },
           { 
             id: 32, 
@@ -266,7 +266,7 @@ const SliderAgosto = () => {
             nombrejuego: "Agrupa2", 
             description: "Presentación: Explica a los participantes que van a jugar a un juego donde tendrán que encontrar a otras personas con las que comparten algo en común. La regla de oro: Lo más importante es que no podrán hablar durante el juego. Tendrán que usar gestos, señas y otros medios no verbales para comunicarse. La primera ronda: El animador propone un primer criterio de agrupamiento (por ejemplo, 'agrúpense por edad'). Los participantes deberán buscar a las personas que compartan esa característica y formar grupos. Rondas sucesivas: Se propondrán diferentes criterios de agrupamiento cada vez más complejos (por ejemplo, 'agrúpense por su mes de cumpleaños y si les gusta el chocolate'). Verificación: Una vez formados los grupos, se pedirá a cada grupo que nombre la característica en común que los une.", 
             objetivos: "comunicación no verbal", 
-            backgroundImage: "<la url>" 
+            backgroundImage: "https://media.licdn.com/dms/image/v2/D4D0BAQEJBJaYqO7qfg/company-logo_200_200/company-logo_200_200/0/1714940891567?e=2147483647&v=beta&t=1dQ7cAuXEzSy6DRAoad2-x3QPNk4Y0zWvOD7-KOPxgE" 
           },
           { 
             id: 33, 
@@ -298,7 +298,7 @@ const SliderAgosto = () => {
             nombrejuego: "10 pases", 
             description: "El juego 10 Pases es una dinámica en la que los jugadores, divididos en dos equipos, deben pasarse una pelota entre ellos. El objetivo es completar 10 pases consecutivos sin que el equipo contrario intercepte la pelota. No se puede mover con la pelota en mano ni pasarla a la misma persona dos veces seguidas. Si el equipo defensor intercepta o toca la pelota antes de que se completen los 10 pases, se reinicia el conteo y el equipo defensor puede tomar posesión de la pelota para intentar sus propios 10 pases.", 
             objetivos: "juego predeportivo, colaborativo, habilidad predominante lanzamiento y atrape", 
-            backgroundImage: "<la url>" 
+            backgroundImage: "https://passport.world.rugby/media/4lnpq5yz/passing.jpg" 
           },
           { 
             id: 37, 
@@ -330,7 +330,7 @@ const SliderAgosto = () => {
             nombrejuego: "Posta simple, arrastre, transporte", 
             description: "El juego consta de tres modalidades: \nPOSTA SIMPLE: Los jugadores se posicionarán en tres grupos, formados por hileras. Se colocará un punto A y un punto B que deberán recorrer de ida y vuelta. Los jugadores pasan de uno en uno, y la salida será cuando el jugador choque los cinco con su compañero al volver. El primer equipo en el que todos los jugadores completen el recorrido será el ganador. \nPOSTA ARRASTRE: El curso se divide en 2 equipos. Cada equipo se ubica en una hilera detrás de la línea de partida. El primer jugador corre a buscar una lenteja y vuelve para tomar de la mano al siguiente jugador, sumando más personas en cada recorrido. Al final, se desarma el grupo de manera que cada persona se queda en su posición inicial tras completar su recorrido. \nPOSTA TRANSPORTE: Los jugadores se organizan en grupos y se colocan en hileras en el punto de salida. El primer jugador debe llevar a un compañero al punto B y regresar. Con cada recorrido, se suma un nuevo jugador que es cargado por el grupo. El primer equipo en completar el recorrido con todos sus integrantes gana la posta.", 
             objetivos: "velocidad de reacción", 
-            backgroundImage: "<la url>" 
+            backgroundImage: "https://sdmed.cl/wp-content/uploads/2023/03/2-43-600x600.jpg" 
           },
           { 
             id: 41, 
