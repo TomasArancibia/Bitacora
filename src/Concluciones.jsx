@@ -30,11 +30,10 @@ const Concluciones = () => {
                 <div className="card">
                     <div className="card-content">
                         <p className="card-title">
-                            Card hover effect
+                            Reflexión de Francisca Muñoz
                         </p>
                         <p className="card-para">
-                            Lorem ipsum dolor sit
-                            amet, consectetur adipiscing elit.
+                        Este ha sido uno de los ramos más entretenidos que he tomado en la universidad, me permitió relajarme y poder despejarme del estrés del día a día. Siempre que iba al ramo me entretenía mucho y lo pasaba muy bien, además pude conocer gente nueva y hacer varios amigos, que hacía la experiencia mucho más disfrutada. Le recomendaría este ramo a todas las personas de la universidad, porque además de pasarlo bien, permite estar en movimiento y evitar así una vida sedentaria. Pero principalmente porque pude volver a sentirme como me sentía en la niñez y disfrutar de jugar como antes, algo que me hizo muy feliz.
                         </p>
                     </div>
                 </div>
