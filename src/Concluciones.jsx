@@ -3,7 +3,7 @@ import React from 'react';
 const Concluciones = () => {
     return (
         <div className='clo-container'>
-            <h1>Conclusiones</h1>
+            <h1>Reflexiones Finales</h1>
             <div className='concluciones'> 
                 <div className="card">
                     <div className="card-content">
@@ -40,11 +40,10 @@ const Concluciones = () => {
                 <div className="card">
                     <div className="card-content">
                         <p className="card-title">
-                            Card hover effect
+                        Reflexión de Héctor Tenorio 
                         </p>
                         <p className="card-para">
-                            Lorem ipsum dolor sit
-                            amet, consectetur adipiscing elit.
+                        Como estudiante universitario, hacía tiempo que no tenía un ramo que fomentara tanto el trabajo en equipo y la interacción con los compañeros para llevar a cabo las actividades necesarias. Sin duda, ha sido una experiencia enriquecedora que me ha permitido aprender cosas nuevas y disfrutar de las clases en todo momento. Este ramo, además de enseñarme nuevos conceptos teóricos, me permitió mantenerme activo a lo largo del semestre y promover un aspecto fundamental para la salud en general: la práctica del deporte, que sin duda es uno de las cosas mas importantes para tener un buen balance en el día a día a nivel de salud. 
                         </p>
                     </div>
                 </div>

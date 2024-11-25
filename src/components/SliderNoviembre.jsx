@@ -100,6 +100,46 @@ const SliderNoviembre = () => {
             "description": "Dos equipos compiten para pasar la pelota a su 'torre,' un jugador ubicado en un aro en cada lado de la cancha. Los pases deben realizarse con la mano, evitando que el equipo contrario intercepte la pelota. Si la 'torre' recibe la pelota correctamente, el equipo obtiene un punto.",
             "objetivos": "Comunicarse, trabajar en equipo, desarrollar estrategias.",
             "backgroundImage": "https://img.freepik.com/foto-gratis/bella-torre-castillo-angulo_23-2150791585.jpg"
+          },
+          {
+            "id": 140,
+            "fecha": "20 de noviembre",
+            "nombrejuego": "Rey o Reyna de los animales",
+            "description": "Dentro del grupo de personas, cada uno escoge el nombre de un animal, y se reunirán todos entorno al que dirige el juego en un círculo. La persona que dirige lanzará la pelota al aire y nombrará un animal, cuyo jugador correspondiente deberá atrapar la pelota mientras el resto de los jugadores corren lo más lejos posible. Si la atrapa en el aire, debe nombrar el animal correspondiente a otro jugador y se repite el ciclo. En cambio, si primero cae al suelo, la deberá buscar y gritar ‘stop’, para que el resto de los jugadores pare de correr. Luego podrá dar máximo tres pasos para lanzarle la pelota a otro jugador, y si lo pinta será eliminado.",
+            "objetivos": "Trabajar la capacidad de atención, la velocidad y el lanzamiento y atrape",
+            "backgroundImage": "https://i.ytimg.com/vi/aCuWR3-LDPs/maxresdefault.jpg"
+          },
+          {
+            "id": 141,
+            "fecha": "20 de noviembre",
+            "nombrejuego": "El motín de la cuncuna pirata",
+            "description": "Para este juego se formarán equipos de 6 personas, en que una tomará el rol de capitán y otro será un artillero. Todos menos el capitán formarán una hilera en que el artillero se encontrará al inicio y todos tendrán los ojos vendados. El capitán es el único que puede ver, dirigirá la hilera y le dará instrucciones al artillero para quemar otras cuncunas con un balón. Si logra quemar a alguien, dicho participante deberá salir de su cuncuna original y ser llevado a la cuncuna que lo ha quemado. Finalmente gana la cuncuna más larga.",
+            "objetivos": "Trabajar la capacidad de realizar estrategia y coordinarse en equipo. Mejorar la agilidad de lanzamiento.",
+            "backgroundImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgKluRQuUZR7yMbDyVqhrZzjgKoo3w1PqBhg&s"
+          },
+          {
+            "id": 142,
+            "fecha": "22 de noviembre",
+            "nombrejuego": "Culebra peligrosa",
+            "description": "Se formarán equipos de 5 integrantes que se ubicarán en las esquinas de la cancha. Deberán formar una hilera parados sobre tres colchonetas pequeñas, teniendo prohibido pisar el piso. Para avanzar deberán ir pasando la colchoneta del final hacia adelante y seguir caminando sobre éstas. Si la persona del inicio de la hilera toca a un participante de otro equipo, dicha sección del equipo contrario deberá ser añadida al equipo que lo ha tocado. Gana la última culebra en pie.",
+            "objetivos": "Desarrollar la capacidad de comunicación en equipo y de generar estrategias. Aprender a coordinarse en equipo.",
+            "backgroundImage": "https://img.freepik.com/vector-gratis/ilustracion-amistosa-serpiente-dibujos-animados_1308-165819.jpg"
+          },
+          {
+            "id": 143,
+            "fecha": "22 de noviembre",
+            "nombrejuego": "Caza a ciegas",
+            "description": "Se escogerá a un cazador que deberá correr y pintar al resto de los jugadores. Si un jugador es pintado deberá actuar como cerdito. Para liberarse se deben juntar tres cerditos y hacer su sonido característico a alguna persona que no haya sido pintada. El objetivo del cazador es convertir a todos en cerditos antes de que acabe el tiempo.",
+            "objetivos": "Desarrollar la capacidad de reacción y velocidad",
+            "backgroundImage": "https://img.freepik.com/vector-premium/personaje-dibujos-animados-hombre-cazador_88465-708.jpg"
+          },
+          {
+            "id": 144,
+            "fecha": "22 de noviembre",
+            "nombrejuego": "Guerra mundial z",
+            "description": "En este tipo de pinta, las personas que pintan deben actuar como zombies e infectar al resto al tocarlos. Si alguien es infectado, se convierte en zombi y deberá seguir infectando. El juego termina cuando todos sean infectados.",
+            "objetivos": "Desarrollar la velocidad y capacidad de reacción.",
+            "backgroundImage": "https://i.pinimg.com/originals/df/b7/17/dfb71789a47c71c7665fc241c0a6ab3c.png"
           }
     ];
     const [activeId, setActiveId] = useState(itemsData[0].id);
